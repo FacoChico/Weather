@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather 1</string>
+    <string name="logo">Your weather</string>
+    <string name="hint_city">Input name of the city</string>
+    <string name="search">Search</string>
+    <string name="enter">Input name of the city!</string>
+    <string name="err">Error!</string>
+
+
+
+</resources>
